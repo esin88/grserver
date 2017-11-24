@@ -1,5 +1,5 @@
 # grserver
-minimalistic web server using gradle, groovy and gretty
+minimalistic web server using gradle, groovlets and gretty
 
 to build and run server:
 
